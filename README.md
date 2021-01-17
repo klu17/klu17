@@ -1,7 +1,7 @@
 ### Karmen Lu | Software Engineer and Student 👩‍💻
 
 - ⚙️ *Currently Working On:* personal and open source projects.
-- 🌱 *Currently Learning:* about RESTful APIs and web development practices.
+- 🌱 *Currently Learning:* about networks and C++
 - 💖 *Interested In:* making an impact & health/wellness tech
 - 🎓 Computer Science at Northeastern University (Class of 2021)
 - *Hobbies:* 🏃‍♀️ 🚲 ⛸️
