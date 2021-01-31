@@ -2,9 +2,7 @@
 
 - ⚙️ *Currently Working On:* personal and open source projects.
 - 🌱 *Currently Learning:* about networks and C++
-- 💖 *Interested In:* making an impact & health/wellness tech
 - 🎓 Computer Science at Northeastern University (Class of 2021)
-- *Hobbies:* 🏃‍♀️ 🚲 ⛸️
 
 *No power in society, no hardship in your condition can depress you, keep you down, in knowledge, power, virtue, influence, but by your own consent.*
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klu17&show_icons=true&hide_rank=true&include_all_commits=true)-->
